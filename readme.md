@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Vanilla JavaScript App</h3>
-
+<p>Link del ejercicio: https://brave-meadow-08a773110.azurestaticapps.net/</p>
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
